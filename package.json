@@ -1,0 +1,15 @@
+{
+  "name": "nightmare",
+  "version": "1.0.0",
+  "description": "nightmare test login",
+  "main": "test.js",
+  "dependencies": {
+    "nightmare": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
